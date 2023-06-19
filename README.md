@@ -21,8 +21,6 @@
   
   <h3 align="center"><a href="https://portfolio-sumit-sharma-02.vercel.app/"><strong>« Try the demo here »</strong></a></h3>
   
-  ![portfolio-mockup](https://user-images.githubusercontent.com/52236473/216830515-16d7ef05-09fd-49b3-8a38-e7cc06f26d45.png)
-  
 <br />
 
 ## Pages
@@ -33,22 +31,10 @@
 - Contact
 <br />
 
-## Glimpses:
-<table>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/52236473/216831665-db3debeb-09af-462e-8d57-53586d6a1ce0.png" alt="home" /></td>
-    <td><img src="https://user-images.githubusercontent.com/52236473/216831803-c4183e0f-bb2f-4d98-ad46-9a570006b599.png" alt="education" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/52236473/216831873-e51df2c2-fa91-4565-855a-691939f41f3b.png" alt="experience" /></td>
-    <td><img src="https://user-images.githubusercontent.com/52236473/216831893-81751f41-3a94-4d0d-94eb-f15608ebc7da.png" alt="projects" /></td>
-  </tr>
-</table>
-
 ## Quick Start
 
 ```shell
-$ git clone https://github.com/sumit-sharma-02/portfolio.git
+$ git clone https://github.com/kusasha227/portfolio.git
 $ cd portfolio
 $ npm install --force
 ```
